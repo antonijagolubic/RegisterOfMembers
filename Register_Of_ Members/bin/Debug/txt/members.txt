@@ -1,0 +1,14 @@
+#1#Petra#Furaè#Ž#1.1.1998.#88888888884#Velika Jelsa 4A 47000 Karlovac#petra.furac@gmail.com#0989365102#True#A#rekreacija#4.5.2005.#PetraFurac
+#2#Maja#Mara#Ž#1.1.1997.#77777777777#Velika Jelsa 7A 47000 Karlovac#p.fc@gmail.com#0989365107#True#B#selekcija#29.12.1998.#MajaMara
+#3#Antonija#Golubiæ#Ž#8.1.2008.#88888522221#Donje Pokupje 78A, 47000 Klc#a.g@gmial.com#098986541#True#B#predškolci#6.1.2016.#AntonijaGolubic
+#4#Jurica#Suhin#M#2.6.1999.#74125896321#Banina 2#j,kk@hmail.com#7896585421#True#D#rekreacija#29.3.2016.#JuricaSuhin
+#5#Dada#Ade#Ž#28.3.2016.#89898989898#Dsdafas#fasdf.dfas@kigf.vok#878587452#False#NEMA#rekreacija#25.4.2016.#DadaAde
+#6#Jakov#Rebiæ#M#29.12.2015.#89898989898#Fasdfasd#fasdf.f@kimi.kol#8785485632#False#NEMA#rekreacija#26.4.2016.#JakovRebic
+#8#Maja#Klara#Ž#30.12.2008.#89898989898#Fsfsd#fsa.dfsd@kkij.lol#8787875841#True#A#selekcija#26.4.2016.#MajaKlara
+#11#Matija#Stedul#M#1.2.1989.#89898787878#Švarèa 3 A#matija.s@gmail.com#7895854512#True#D#rekreacija#30.1.2013.#MatijaStedul
+#14#Tomislav#Toman#M#6.5.1997.#45632145236#Zagraj 55A#t.t@kail.vok#8745212023#True#D#selekcija#16.6.2010.#TomislavToman
+#15#Darko#Bananko#M#28.3.2016.#87458585858#Dddddddd#d.d@kiol.èpl#8974855478#False#NEMA#selekcija#1.4.2016.#DarkoBananko
+#17#Monika#Nonika#Ž#30.4.1999.#96969696965#Dadadada#dada.da@kikl.com#8785421023#False#NEMA#predškolci#28.3.2016.#MonikaNonika
+#18#Janja#Manja#Ž#30.4.1998.#96325896321#Dddddd#ddd.d@kil.com#0235986521#False#NEMA#rekreacija#28.3.2016.#JanjaManja
+#19#Sanja#Panja#Ž#2.5.1997.#23652365236#Banjija Bb#sanja.s@gmail.com#0215896582#False#NEMA#rekreacija#25.4.2016.#SanjaPanja
+#21#Iva#Šegota#Ž#3.5.1998.#85258525852#Švarèa 77#kkk.k@kijl.com#9878587458#False#NEMA#rekreacija#3.5.2016.#IvaSegota
